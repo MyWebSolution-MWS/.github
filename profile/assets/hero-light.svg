@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 650" role="img" aria-labelledby="title desc">
+<title id="title">MyWebSolution - Built with intent</title>
+<desc id="desc">Design-driven. Engineering-minded. Design, develop, deploy.</desc>
+<rect width="1440" height="650" fill="#f3f2ed"/>
+<path d="M72 94H1368M72 556H1368" stroke="#ced2d7" stroke-width="2"/>
+<text x="72" y="65" fill="#171b23" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1.8">MYWEBSOLUTION</text>
+<text x="1368" y="65" text-anchor="end" fill="#596172" font-family="monospace" font-size="16" letter-spacing="2">DIGITAL STUDIO / 01</text>
+<text x="72" y="216" fill="#2349d5" font-family="monospace" font-size="20" letter-spacing="3">DESIGN-DRIVEN. ENGINEERING-MINDED.</text>
+<text x="65" y="336" fill="#171b23" font-family="Arial, Helvetica, sans-serif" font-size="108" font-weight="700" letter-spacing="-5">BUILT WITH</text>
+<text x="65" y="451" fill="#171b23" font-family="Arial, Helvetica, sans-serif" font-size="108" font-weight="700" letter-spacing="-5">INTENT<tspan fill="#2349d5">.</tspan></text>
+<text x="72" y="607" fill="#596172" font-family="monospace" font-size="17" letter-spacing="2">DESIGN / DEVELOP / DEPLOY</text>
+<text x="1368" y="607" text-anchor="end" fill="#596172" font-family="monospace" font-size="16" letter-spacing="2">MYWEBSOLUTION.GR</text>
+<g transform="translate(1044 181)">
+<rect x="0" y="0" width="324" height="300" fill="#e5e8ec"/>
+<path d="M36 54H288M36 246H288M36 54V246M288 54V246M162 54V246M36 150H288" fill="none" stroke="#ced2d7" stroke-width="1.5"/>
+<path d="M36 246L162 54L288 246Z" fill="none" stroke="#2349d5" stroke-width="3"/>
+<circle cx="162" cy="54" r="7" fill="#2349d5"/><circle cx="36" cy="246" r="7" fill="#2349d5"/><circle cx="288" cy="246" r="7" fill="#2349d5"/>
+<circle cx="162" cy="150" r="21" fill="#f3f2ed" stroke="#2349d5" stroke-width="3"/>
+<path d="M151 150H173M162 139V161" stroke="#2349d5" stroke-width="2"/>
+</g>
+</svg>
